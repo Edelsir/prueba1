@@ -1,2 +1,1 @@
-# prueba1
-primer repositorio
+Prueba clonar un repositorio y guardarlo localmente
